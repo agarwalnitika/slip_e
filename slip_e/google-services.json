@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949510044802",
+    "firebase_url": "https://loginnitika.firebaseio.com",
+    "project_id": "loginnitika",
+    "storage_bucket": "loginnitika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949510044802:android:beb10d541e4862e738489b",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949510044802-e03d8c9ppbtjk6u9g4o8aj8b3g4ddm93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8MkNQ-8NegZZDH45gaPqcKrvSb4pWh08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949510044802-e03d8c9ppbtjk6u9g4o8aj8b3g4ddm93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

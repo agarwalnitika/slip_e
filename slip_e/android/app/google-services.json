@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19406542880",
+    "firebase_url": "https://slip-e-c7bc4.firebaseio.com",
+    "project_id": "slip-e-c7bc4",
+    "storage_bucket": "slip-e-c7bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19406542880:android:d0fb74d0c137d6e4918445",
+        "android_client_info": {
+          "package_name": "com.example.slip_e"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19406542880-6s5qe9acb3ve4t5oj7aqmuioq8el54vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWx3DS3xc-pVrkD5bnj4kncji8xnX--LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19406542880-6s5qe9acb3ve4t5oj7aqmuioq8el54vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
